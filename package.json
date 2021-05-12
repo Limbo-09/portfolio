@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "version": "1.2.1",
-  "description": "Portfolio can be found [here](https://limbo-09.github.io/portfolio/).",
+  "description": "Portfolio can be found [here](https://srivastava-stuti.github.io/portfolio/).",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
