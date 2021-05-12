@@ -1,2 +1,2 @@
 # Portfolio Website
-[my portfolio](https://limbo-09.github.io/portfolio/)
+[my portfolio](https://srivastava-stuti.github.io/portfolio/)
