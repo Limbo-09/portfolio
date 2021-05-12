@@ -1,2 +1,2 @@
 # Portfolio Website
-[Portfolio](https://limbo-09.github.io/portfolio/)
+[my portfolio](https://limbo-09.github.io/portfolio/)
